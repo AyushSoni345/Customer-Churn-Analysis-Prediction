@@ -109,5 +109,5 @@ Contributions, issues, and feature requests are welcome! Feel free to fork this 
 ## ✍️ Author
 
 **Ayush Soni**
-📧 [gabru@gmail.com](mailto:soniayush3425@gmail.com)
+📧 [soniayush3425@gmail.com](mailto:soniayush3425@gmail.com)
 🔗 [GitHub Profile](https://github.com/AyushSoni345)
